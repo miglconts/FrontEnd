@@ -14,14 +14,14 @@ La preferncia de colores del cliente es azul marino y blanco, pero acepta propue
 
 
 ## [Toma de requerimientos :arrow_left: `Click para descargar`](/Requerimientos.pdf)
-![requerimientos](/images/requerimientos.png)
+![requerimientos](./images/requerimientos.png)
 ## [Buyer persona :arrow_left: `Click para descargar`](/Buyer_persona.pdf)
-![Buyer Persona](/images/Buyerpersona.png)
+![Buyer Persona](./images/Buyerpersona.png)
 ## [Publico objetivo :arrow_left: `Click para ver en miro.com`](https://miro.com/app/board/uXjVOKG4weA=/?invite_link_id=569316588243)
-![Publico objetivo](/images/Público%20Objetivo%20.png)
+![Publico objetivo](./images/Público%20Objetivo%20.png)
 ## [Wireframe UX :arrow_left: `Click para ver en miro.com`](https://miro.com/app/board/uXjVOJmNKic=/?invite_link_id=795305442555)
-![Publico objetivo](/images/wireframe.png)
-## [User Interface :arrow_left: `Click para ver en Adobe XD`]()
+![Publico objetivo](./images/wireframe.png)
+## [User Interface :arrow_left: `Click para ver en Adobe XD`](https://xd.adobe.com/view/f9761157-b257-43ff-995c-30aef5a2c394-ac25/?fullscreen)
 
 
 
